@@ -3,6 +3,11 @@
 Codex-compatible procedural verification harness for coding workspaces,
 especially Godot/game projects.
 
+Korean docs:
+
+- `HOW_IT_WORKS_KO.md`: detailed Korean explanation of how the harness works
+- `RECOMMENDED_USAGE.md`: recommended Korean usage patterns
+
 This package adapts the useful parts of:
 
 - `fivetaku/fablize`: https://github.com/fivetaku/fablize
